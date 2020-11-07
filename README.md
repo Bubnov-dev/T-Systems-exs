@@ -14,7 +14,6 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 * Author name : Alexandr Bubnov
 * Codeship :[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/e7eb4065-7c8d-4b00-8ce0-5195731eaeb2/status?branch=master)](https://app.codeship.com/projects/201451)
 
-Example of Codeship badge. Please remove the example before you send us the link. 
 
 
 ### How to start?  ###
